@@ -1,2 +1,2 @@
 ﻿Name,Longitude,Latitude,Alias,BTSName,AREA,Coverage,Status,SubRegionCode,Classification,TowerHeight,SiteCategory,Cluster,Physical Location,Topology,Technology,CONSTITUENCY,SITE_TYPE
-70001_TT_ET0001," 37.6",-1.8888," MACHAKOS"," KitengelaII"," MACHAKOS",coverage,New (Planned),EL," Rural",42,Greenfield,Nairobi Inner," MACHAKOS",," GSM",MACHAKOS TOWN,Greenfield
+71112_TE_NI7474," 37.78789",-1.34344343," MACHAKOS"," TESTSTE"," MACHAKOS",Coverage,New (Planned),EL," Rural",36,Greenfield,Nairobi Outer," MACHAKOS",," GSM",MACHAKOS TOWN,Greenfield
